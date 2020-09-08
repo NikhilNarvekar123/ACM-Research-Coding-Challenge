@@ -2,7 +2,7 @@
 
 ## Question One
 
-![Image of Cluster Plot](ClusterPlot.png)
+![Image of 'Elbow' Plot](InertiaGraph.png)
 <br/>
 
 Python Libraries Used: scikit-learn, Matplotlib, NumPy, pandas
